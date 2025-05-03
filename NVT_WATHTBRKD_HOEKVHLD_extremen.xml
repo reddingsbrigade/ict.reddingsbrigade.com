@@ -1,0 +1,7106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<astronomical-tide>
+  <location>Hoek van Holland</location>
+  <reference>NAP</reference>
+  <timezone>Nederlandse tijd</timezone>
+  <source>https://getij.rws.nl</source>
+  <values>
+    <datetime>202501010331</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202501010847</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime>202501011548</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime comment="21">202501012328</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202501020411</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202501020921</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime>202501021627</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime comment="21">202501030014</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202501030452</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime>202501030959</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime>202501031708</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime comment="21">202501040059</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202501040533</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202501041041</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202501041752</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime comment="21">202501050143</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202501050618</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime>202501051128</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime>202501051840</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime comment="21">202501060226</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202501060707</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime>202501061221</datetime>
+    <tide>LW</tide>
+    <val>-82</val>
+  </values>
+  <values>
+    <datetime>202501061935</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <moonphase>EK 00:56</moonphase>
+    <datetime comment="21">202501070300</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202501070804</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime>202501071326</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime>202501072040</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime>202501080300</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202501080908</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202501081438</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime>202501082148</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime>202501090341</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202501091016</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202501091549</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202501092257</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202501100443</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime>202501101126</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime>202501101702</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime>202501110006</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime>202501110544</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202501111229</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime comment="21">202501112005</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202501120107</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202501120635</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime>202501121326</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime comment="21">202501122106</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <moonphase>VM 23:27</moonphase>
+    <datetime>202501130201</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime comment="21">202501130956</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime>202501131417</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime comment="21">202501132222</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202501140251</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime comment="21">202501141047</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202501141503</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime comment="21">202501142315</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202501150336</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime comment="21">202501151136</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime>202501151547</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime comment="21">202501160004</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202501160417</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202501160912</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202501161628</datetime>
+    <tide>HW</tide>
+    <val>138</val>
+  </values>
+  <values>
+    <datetime comment="21">202501170052</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202501170456</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202501170952</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime>202501171709</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime comment="21">202501180138</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime>202501180533</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime>202501181034</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202501181750</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime comment="21">202501190221</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202501190610</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202501191121</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202501191832</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202501200008</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime>202501200649</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime>202501201212</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime>202501201916</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <moonphase>LK 21:30</moonphase>
+    <datetime>202501210111</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202501210732</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime>202501211308</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime>202501212003</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime>202501220157</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202501220822</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime>202501221402</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202501222056</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime>202501230247</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202501230920</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime>202501231458</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202501232152</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <datetime comment="21">202501240447</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202501241024</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime comment="21">202501241725</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202501242257</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime comment="21">202501250547</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202501251135</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime comment="21">202501251826</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202501260012</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime>202501260635</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202501261240</datetime>
+    <tide>HW</tide>
+    <val>90</val>
+  </values>
+  <values>
+    <datetime comment="21">202501261929</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202501270112</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime>202501270711</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202501271332</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime comment="21">202501272104</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202501280158</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202501280726</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime>202501281414</datetime>
+    <tide>HW</tide>
+    <val>117</val>
+  </values>
+  <values>
+    <datetime comment="21">202501282221</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <moonphase>NM 13:35</moonphase>
+    <datetime>202501290238</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202501290751</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime>202501291453</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime comment="21">202501292249</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202501300317</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202501300822</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202501301531</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime comment="21">202501302315</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202501310356</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202501310856</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202501311611</datetime>
+    <tide>HW</tide>
+    <val>145</val>
+  </values>
+  <values>
+    <datetime comment="21">202501312355</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202502010436</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202502010934</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime>202502011652</datetime>
+    <tide>HW</tide>
+    <val>146</val>
+  </values>
+  <values>
+    <datetime comment="21">202502020038</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202502020516</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202502021016</datetime>
+    <tide>LW</tide>
+    <val>-88</val>
+  </values>
+  <values>
+    <datetime>202502021734</datetime>
+    <tide>HW</tide>
+    <val>143</val>
+  </values>
+  <values>
+    <datetime comment="21">202502030119</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime>202502030559</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202502031102</datetime>
+    <tide>LW</tide>
+    <val>-90</val>
+  </values>
+  <values>
+    <datetime>202502031820</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime comment="21">202502040156</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202502040644</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime>202502041155</datetime>
+    <tide>LW</tide>
+    <val>-88</val>
+  </values>
+  <values>
+    <datetime>202502041910</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <moonphase>EK 09:02</moonphase>
+    <datetime comment="21">202502050216</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime>202502050734</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202502051306</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime>202502052008</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202502060223</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime>202502060835</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime>202502061436</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202502062116</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime>202502070315</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202502070946</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202502071548</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime>202502072234</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime>202502080429</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202502081106</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime>202502081700</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202502082358</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime>202502090534</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202502091221</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime comment="21">202502092008</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202502100105</datetime>
+    <tide>HW</tide>
+    <val>90</val>
+  </values>
+  <values>
+    <datetime>202502100622</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202502101323</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime comment="21">202502102148</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202502110200</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime comment="21">202502110955</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime>202502111413</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime comment="21">202502112237</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <moonphase>VM 14:53</moonphase>
+    <datetime>202502120246</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime comment="21">202502121041</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime>202502121455</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime comment="21">202502122309</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202502130325</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime comment="21">202502131122</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202502131533</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime comment="21">202502132346</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202502140359</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202502140849</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime>202502141609</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime comment="21">202502150028</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202502150433</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime>202502150924</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202502151646</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime comment="21">202502160111</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202502160506</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202502161001</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202502161722</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202502170147</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime>202502170539</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202502171040</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202502171756</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime>202502172303</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202502180612</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202502181123</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime>202502181830</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202502182350</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202502190647</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202502191213</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime>202502191904</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <moonphase>LK 18:32</moonphase>
+    <datetime>202502200052</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime>202502200725</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202502201316</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime>202502201945</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202502210153</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime>202502210817</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime>202502211419</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime>202502212049</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime>202502220252</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202502220937</datetime>
+    <tide>HW</tide>
+    <val>81</val>
+  </values>
+  <values>
+    <datetime>202502221528</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202502222205</datetime>
+    <tide>HW</tide>
+    <val>72</val>
+  </values>
+  <values>
+    <datetime comment="21">202502230521</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202502231056</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime comment="21">202502231752</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime>202502232330</datetime>
+    <tide>HW</tide>
+    <val>67</val>
+  </values>
+  <values>
+    <datetime comment="21">202502240611</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202502241214</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime comment="21">202502241851</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime>202502250050</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime>202502250641</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202502251312</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime comment="21">202502252109</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202502260139</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime>202502260653</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime>202502261355</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime comment="21">202502262218</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202502270218</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime>202502270721</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202502271432</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime comment="21">202502272259</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <moonphase>NM 01:44</moonphase>
+    <datetime>202502280255</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime>202502280754</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202502281510</datetime>
+    <tide>HW</tide>
+    <val>143</val>
+  </values>
+  <values>
+    <datetime>202502282017</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202503010333</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202503010829</datetime>
+    <tide>LW</tide>
+    <val>-86</val>
+  </values>
+  <values>
+    <datetime>202503011549</datetime>
+    <tide>HW</tide>
+    <val>149</val>
+  </values>
+  <values>
+    <datetime>202503012051</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202503020413</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime>202503020908</datetime>
+    <tide>LW</tide>
+    <val>-91</val>
+  </values>
+  <values>
+    <datetime>202503021630</datetime>
+    <tide>HW</tide>
+    <val>150</val>
+  </values>
+  <values>
+    <datetime>202503022130</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202503030453</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime>202503030950</datetime>
+    <tide>LW</tide>
+    <val>-93</val>
+  </values>
+  <values>
+    <datetime>202503031712</datetime>
+    <tide>HW</tide>
+    <val>145</val>
+  </values>
+  <values>
+    <datetime>202503032212</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime>202503040534</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime>202503041038</datetime>
+    <tide>LW</tide>
+    <val>-90</val>
+  </values>
+  <values>
+    <datetime>202503041757</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime>202503042300</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202503050618</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime>202503051134</datetime>
+    <tide>LW</tide>
+    <val>-85</val>
+  </values>
+  <values>
+    <datetime>202503051845</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202503052358</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <moonphase>EK 17:31</moonphase>
+    <datetime>202503060706</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime comment="21">202503061343</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime>202503061940</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime>202503070150</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime>202503070805</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202503071434</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime>202503072050</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime>202503080252</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime>202503080924</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime>202503081539</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime>202503082225</datetime>
+    <tide>HW</tide>
+    <val>67</val>
+  </values>
+  <values>
+    <datetime>202503090410</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202503091100</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime>202503091649</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202503092354</datetime>
+    <tide>HW</tide>
+    <val>69</val>
+  </values>
+  <values>
+    <datetime>202503100515</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202503101220</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime comment="21">202503102035</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime>202503110057</datetime>
+    <tide>HW</tide>
+    <val>81</val>
+  </values>
+  <values>
+    <datetime comment="21">202503110843</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202503111318</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime comment="21">202503112151</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202503120147</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime comment="21">202503120948</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime>202503121401</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime comment="21">202503122257</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202503130228</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime comment="21">202503131033</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime>202503131438</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime comment="21">202503132259</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <moonphase>VM 07:54</moonphase>
+    <datetime>202503140303</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime comment="21">202503141105</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime>202503141512</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202503142322</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202503150335</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202503150824</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime>202503151545</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime comment="21">202503152357</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202503160405</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202503160855</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime>202503161619</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202503170034</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime>202503170436</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime>202503170929</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime>202503171651</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime>202503172149</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202503180507</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime>202503181005</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime>202503181722</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime>202503182226</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202503190538</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime>202503191043</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime>202503191751</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202503192305</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202503200608</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202503201125</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202503201822</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202503202348</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime>202503210642</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime>202503211219</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime>202503211859</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <moonphase>LK 12:29</moonphase>
+    <datetime>202503220052</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime>202503220722</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime comment="21">202503221402</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202503221947</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime>202503230215</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202503230822</datetime>
+    <tide>HW</tide>
+    <val>84</val>
+  </values>
+  <values>
+    <datetime comment="21">202503231513</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202503232119</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime comment="21">202503240453</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime>202503241024</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime comment="21">202503241721</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202503242253</datetime>
+    <tide>HW</tide>
+    <val>58</val>
+  </values>
+  <values>
+    <datetime comment="21">202503250541</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202503251145</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime comment="21">202503251825</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime>202503260018</datetime>
+    <tide>HW</tide>
+    <val>67</val>
+  </values>
+  <values>
+    <datetime>202503260549</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime>202503261244</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime comment="21">202503262053</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202503270109</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime>202503270615</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202503271327</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime comment="21">202503272159</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime>202503280150</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime>202503280649</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202503281405</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime comment="21">202503282245</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <moonphase>NM 11:58</moonphase>
+    <datetime>202503290228</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime>202503290725</datetime>
+    <tide>LW</tide>
+    <val>-85</val>
+  </values>
+  <values>
+    <datetime>202503291444</datetime>
+    <tide>HW</tide>
+    <val>144</val>
+  </values>
+  <values>
+    <datetime>202503291950</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503300407</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503300903</datetime>
+    <tide>LW</tide>
+    <val>-91</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503301625</datetime>
+    <tide>HW</tide>
+    <val>149</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503302126</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503310447</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503310943</datetime>
+    <tide>LW</tide>
+    <val>-92</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503311706</datetime>
+    <tide>HW</tide>
+    <val>147</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202503312206</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504010528</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504011028</datetime>
+    <tide>LW</tide>
+    <val>-88</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504011749</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504012250</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504020610</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504021117</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504021834</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504022340</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504030654</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504031409</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504031922</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504040042</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504040743</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504041436</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504042017</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <moonphase>EK 04:14</moonphase>
+    <datetime summertime="yes">202504050221</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504050844</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504051523</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504052134</datetime>
+    <tide>HW</tide>
+    <val>68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504060329</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504061017</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504061626</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504062319</datetime>
+    <tide>HW</tide>
+    <val>58</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504070450</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504071154</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504071917</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504080038</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504080554</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504081306</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504082106</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504090135</datetime>
+    <tide>HW</tide>
+    <val>78</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504090904</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504091357</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504092221</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504100222</datetime>
+    <tide>HW</tide>
+    <val>90</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504101021</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504101438</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504102306</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504110302</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504111107</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504111514</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504112330</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504120336</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504120835</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504121547</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504122354</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <moonphase>VM 02:22</moonphase>
+    <datetime summertime="yes">202504130406</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504130903</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504131619</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504140021</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504140436</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504141203</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504141651</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504150047</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504150507</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504151245</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504151722</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504160113</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504160538</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504161324</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504161752</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504162300</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504170609</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504171358</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504171822</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504172338</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504180640</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504181427</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504181854</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504190021</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504190714</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504191444</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504191933</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504200115</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504200756</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504201511</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504202021</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <moonphase>LK 03:35</moonphase>
+    <datetime summertime="yes">202504210245</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504210852</datetime>
+    <tide>HW</tide>
+    <val>92</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504211610</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504212142</datetime>
+    <tide>HW</tide>
+    <val>63</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504220351</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504221051</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504221756</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504222318</datetime>
+    <tide>HW</tide>
+    <val>57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504230457</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504231208</datetime>
+    <tide>HW</tide>
+    <val>92</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504231913</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504240037</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504240552</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504241308</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504242121</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504250133</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504250636</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504251354</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202504252222</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504260217</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504260717</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504261437</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504261949</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <moonphase>NM 21:31</moonphase>
+    <datetime summertime="yes">202504270259</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504270758</datetime>
+    <tide>LW</tide>
+    <val>-87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504271519</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504272025</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504280340</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504280839</datetime>
+    <tide>LW</tide>
+    <val>-87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504281601</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504282104</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504290422</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504290923</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504291645</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504292146</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504300505</datetime>
+    <tide>HW</tide>
+    <val>142</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504301010</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504301729</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202504302232</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505010549</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505011403</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505011815</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505012325</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505020635</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505021459</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505021904</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505030030</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505030726</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505031429</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505032003</datetime>
+    <tide>HW</tide>
+    <val>80</val>
+  </values>
+  <values>
+    <moonphase>EK 15:51</moonphase>
+    <datetime summertime="yes">202505040151</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505040832</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505041511</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505042124</datetime>
+    <tide>HW</tide>
+    <val>66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505050302</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505051003</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505051743</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505052252</datetime>
+    <tide>HW</tide>
+    <val>59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505060425</datetime>
+    <tide>LW</tide>
+    <val>-79</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505061130</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505061852</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505070007</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505070529</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505071237</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505072005</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505080103</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505080621</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505081326</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505082118</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505090149</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505090707</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505091408</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505092213</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505100229</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505100750</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505101445</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505102253</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505110304</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505110832</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505111519</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505112326</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <moonphase>VM 18:55</moonphase>
+    <datetime summertime="yes">202505120336</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505121035</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505121552</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505122114</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505130407</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505131123</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505131623</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505132352</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505140439</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505141210</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505141655</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505150038</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505150512</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505151255</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505151728</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505160121</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505160545</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505161335</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505161801</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505162324</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505170619</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505171414</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505171837</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505180007</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505180657</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505181453</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505181918</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505190058</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505190742</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505191538</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505192009</datetime>
+    <tide>HW</tide>
+    <val>79</val>
+  </values>
+  <values>
+    <moonphase>LK 13:58</moonphase>
+    <datetime summertime="yes">202505200206</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505200839</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505201634</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505202121</datetime>
+    <tide>HW</tide>
+    <val>68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505210312</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505211012</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505211737</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505212243</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505220411</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505221126</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505221851</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505222354</datetime>
+    <tide>HW</tide>
+    <val>72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505230508</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505231228</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505232024</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505240055</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505240601</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505241321</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505241845</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505250146</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505250650</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505251410</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505251925</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505260232</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505260738</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505261456</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505262007</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <moonphase>NM 05:02</moonphase>
+    <datetime summertime="yes">202505270318</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505270824</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505271542</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505272049</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505280402</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505280911</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505281628</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505282133</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505290447</datetime>
+    <tide>HW</tide>
+    <val>138</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505291310</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505291715</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505292220</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505300533</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505301407</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505301803</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505310221</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505310621</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202505311457</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202505311854</datetime>
+    <tide>HW</tide>
+    <val>92</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506010010</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506010714</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506011545</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506011950</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506020116</datetime>
+    <tide>LW</tide>
+    <val>-85</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506020818</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506021633</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506022053</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <moonphase>EK 05:40</moonphase>
+    <datetime summertime="yes">202506030225</datetime>
+    <tide>LW</tide>
+    <val>-85</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506030928</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506031724</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506032158</datetime>
+    <tide>HW</tide>
+    <val>69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506040343</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506041039</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506041819</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506042314</datetime>
+    <tide>HW</tide>
+    <val>68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506050458</datetime>
+    <tide>LW</tide>
+    <val>-81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506051152</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506051916</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506060018</datetime>
+    <tide>HW</tide>
+    <val>73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506060555</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506061247</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506062013</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506070108</datetime>
+    <tide>HW</tide>
+    <val>81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506070649</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506071333</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506071916</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506080152</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506080743</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506081415</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506081959</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506090231</datetime>
+    <tide>HW</tide>
+    <val>94</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506090854</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506091452</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506092040</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506100306</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506100957</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506101526</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506102114</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <moonphase>VM 09:43</moonphase>
+    <datetime summertime="yes">202506110341</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506111050</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506111600</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506112132</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506120416</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506121142</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506121635</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506122157</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506130452</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506131231</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506131711</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506132230</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506140528</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506141317</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506141748</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506142307</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506150606</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506151402</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506151827</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506152347</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506160646</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506161446</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506161910</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506170032</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506170731</datetime>
+    <tide>HW</tide>
+    <val>117</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506171531</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506171958</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <moonphase>LK 21:19</moonphase>
+    <datetime summertime="yes">202506180123</datetime>
+    <tide>LW</tide>
+    <val>-86</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506180825</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506181617</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506182057</datetime>
+    <tide>HW</tide>
+    <val>80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506190226</datetime>
+    <tide>LW</tide>
+    <val>-87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506190934</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506191703</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506192206</datetime>
+    <tide>HW</tide>
+    <val>80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506200332</datetime>
+    <tide>LW</tide>
+    <val>-87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506201045</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506201651</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506202313</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506210433</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506211150</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506211734</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506220018</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506220535</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506221252</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506221824</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506230118</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506230636</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506231348</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506231913</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506240211</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506240731</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506241441</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506241959</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <moonphase>NM 12:31</moonphase>
+    <datetime summertime="yes">202506250301</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506250821</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506251531</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506252042</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506260349</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506261159</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506261619</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506262125</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506270436</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506271300</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506271707</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506280118</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506280522</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506281352</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506281753</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506290208</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506290609</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506291442</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506291839</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506292343</datetime>
+    <tide>LW</tide>
+    <val>-82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506300657</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202506301531</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202506301925</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507010037</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507010749</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507011616</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507012013</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <moonphase>EK 21:30</moonphase>
+    <datetime summertime="yes">202507020139</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507020843</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507021658</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507022102</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507030245</datetime>
+    <tide>LW</tide>
+    <val>-82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507030938</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507031558</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507032156</datetime>
+    <tide>HW</tide>
+    <val>81</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507040408</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507041035</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507041701</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507042256</datetime>
+    <tide>HW</tide>
+    <val>77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507050526</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507051141</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507051800</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507060005</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507060628</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507061249</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507061852</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507070108</datetime>
+    <tide>HW</tide>
+    <val>80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507070726</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507071342</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507071940</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507080158</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507080822</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507081428</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507082021</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507090242</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507090920</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507091507</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507092052</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <moonphase>VM 22:36</moonphase>
+    <datetime summertime="yes">202507100322</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507101024</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507101543</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507102109</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507110359</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507111126</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507111620</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507112135</datetime>
+    <tide>LW</tide>
+    <val>-67</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507120436</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507121215</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507121657</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507122206</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507130513</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507131300</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507131736</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507132241</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507140552</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507141343</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507141815</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507142319</datetime>
+    <tide>LW</tide>
+    <val>-82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507150632</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507151426</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507151856</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507160002</datetime>
+    <tide>LW</tide>
+    <val>-85</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507160715</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507161508</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507161940</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507170050</datetime>
+    <tide>LW</tide>
+    <val>-88</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507170804</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507171547</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507172030</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <moonphase>LK 02:37</moonphase>
+    <datetime summertime="yes">202507180146</datetime>
+    <tide>LW</tide>
+    <val>-87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507180902</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507181602</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507182129</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507190300</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507191008</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507191616</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507192237</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507200415</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507201117</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507201711</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507202348</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507210528</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507211229</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507211816</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507220057</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507220637</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507221337</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507221910</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507230159</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507230943</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507231436</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507231953</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <moonphase>NM 21:11</moonphase>
+    <datetime summertime="yes">202507240253</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507241104</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507241527</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507242033</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507250341</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507251158</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507251613</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507252111</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507260426</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507261246</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507261656</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507262149</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507270508</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507271335</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507271736</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507272229</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507280550</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507281424</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507281816</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507282311</datetime>
+    <tide>LW</tide>
+    <val>-79</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507290633</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507291510</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507291854</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507292357</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507300715</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202507301551</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507301934</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507310049</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507310759</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507311349</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202507312016</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <moonphase>EK 14:41</moonphase>
+    <datetime summertime="yes">202508010149</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508010845</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508011442</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508012104</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508020248</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508020935</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508021533</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508022159</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508030347</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508031030</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508031732</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508032302</datetime>
+    <tide>HW</tide>
+    <val>79</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508040604</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508041133</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508041830</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508050016</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508050702</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508051303</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508051919</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508060130</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508060755</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508061407</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508062001</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508070224</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508070846</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508071451</datetime>
+    <tide>HW</tide>
+    <val>92</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508072025</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508080306</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508081114</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508081528</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508082040</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <moonphase>VM 09:55</moonphase>
+    <datetime summertime="yes">202508090342</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508091201</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508091603</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508092106</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508100417</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508100927</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508101639</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508102138</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508110454</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508111236</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508111716</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508112213</datetime>
+    <tide>LW</tide>
+    <val>-79</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508120532</datetime>
+    <tide>HW</tide>
+    <val>144</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508121318</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508121755</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508122251</datetime>
+    <tide>LW</tide>
+    <val>-83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508130612</datetime>
+    <tide>HW</tide>
+    <val>143</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508131400</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508131835</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508132333</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508140654</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508141439</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508141916</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508150021</datetime>
+    <tide>LW</tide>
+    <val>-84</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508150740</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508151243</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508152002</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <moonphase>LK 07:12</moonphase>
+    <datetime summertime="yes">202508160118</datetime>
+    <tide>LW</tide>
+    <val>-79</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508160832</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508161521</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508162057</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508170306</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508170936</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508171548</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508172205</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508180416</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508181051</datetime>
+    <tide>HW</tide>
+    <val>90</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508181655</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508182327</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508190528</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508191220</datetime>
+    <tide>HW</tide>
+    <val>82</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508191806</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508200049</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508200834</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508201336</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508201857</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508210156</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508211019</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508211433</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508212228</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508220249</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508221125</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508221520</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508222319</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <moonphase>NM 08:06</moonphase>
+    <datetime summertime="yes">202508230332</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508231311</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508231601</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508232051</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508240411</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508241229</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508241638</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508242126</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508250449</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508251310</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508251713</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508252202</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508260527</datetime>
+    <tide>HW</tide>
+    <val>138</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508261356</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508261748</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508262239</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508270604</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202508271439</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508271822</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508272319</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508280641</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508281140</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508281857</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508290001</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508290716</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508291225</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508291932</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508300049</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508300750</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508301321</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508302009</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <moonphase>EK 08:25</moonphase>
+    <datetime summertime="yes">202508310153</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508310828</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508311428</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202508312056</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509010301</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509010922</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509011529</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509012213</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509020535</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509021039</datetime>
+    <tide>HW</tide>
+    <val>73</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509021806</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509022334</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509030635</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509031204</datetime>
+    <tide>HW</tide>
+    <val>65</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509031856</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509040102</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509040729</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509041340</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509041938</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509050202</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509050937</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509051427</datetime>
+    <tide>HW</tide>
+    <val>90</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509051950</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509060243</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509061104</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509061503</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509062007</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <moonphase>VM 20:08</moonphase>
+    <datetime summertime="yes">202509070317</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509071159</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509071538</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509072036</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509080352</datetime>
+    <tide>HW</tide>
+    <val>145</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509080900</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509081614</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509082109</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509090429</datetime>
+    <tide>HW</tide>
+    <val>153</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509090931</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509091651</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509092145</datetime>
+    <tide>LW</tide>
+    <val>-79</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509100508</datetime>
+    <tide>HW</tide>
+    <val>155</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509101006</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509101730</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509102225</datetime>
+    <tide>LW</tide>
+    <val>-80</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509110549</datetime>
+    <tide>HW</tide>
+    <val>152</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509111045</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509111810</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509112308</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509120631</datetime>
+    <tide>HW</tide>
+    <val>144</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509121129</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509121851</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509122358</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509130716</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509131219</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509131936</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <moonphase>LK 12:33</moonphase>
+    <datetime summertime="yes">202509140102</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509140806</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509141327</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509142029</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509150312</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509150909</datetime>
+    <tide>HW</tide>
+    <val>93</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509151521</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509152141</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509160409</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509161038</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509161635</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509162320</datetime>
+    <tide>HW</tide>
+    <val>95</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509170519</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509171220</datetime>
+    <tide>HW</tide>
+    <val>73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509171749</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509180050</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509180851</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509181329</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509182104</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509190153</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509191025</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509191421</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509192219</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509200238</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509201139</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509201504</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509202311</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <moonphase>NM 21:54</moonphase>
+    <datetime summertime="yes">202509210316</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509211243</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509211541</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509212346</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509220352</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509221202</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509221614</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509222103</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509230427</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509231238</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509231647</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509232136</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509240501</datetime>
+    <tide>HW</tide>
+    <val>138</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202509241320</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509241719</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509242209</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509250535</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509251029</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509251751</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509252245</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509260608</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509261106</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509261823</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509262323</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509270638</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509271145</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509271854</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509280004</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509280707</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509281228</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509281926</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509290053</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509290740</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509291323</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509292002</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <moonphase>EK 01:53</moonphase>
+    <datetime summertime="yes">202509300237</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509300822</datetime>
+    <tide>HW</tide>
+    <val>94</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509301447</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202509302051</datetime>
+    <tide>HW</tide>
+    <val>92</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510010502</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510010934</datetime>
+    <tide>HW</tide>
+    <val>74</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510011740</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510012259</datetime>
+    <tide>HW</tide>
+    <val>80</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510020606</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510021121</datetime>
+    <tide>HW</tide>
+    <val>64</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510021830</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510030025</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510030704</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510031256</datetime>
+    <tide>HW</tide>
+    <val>72</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510031912</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510040129</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510040926</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510041351</datetime>
+    <tide>HW</tide>
+    <val>89</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510041903</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510050211</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510051039</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510051431</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510051931</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510060247</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510061131</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510061507</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510062005</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <moonphase>VM 05:47</moonphase>
+    <datetime summertime="yes">202510070324</datetime>
+    <tide>HW</tide>
+    <val>153</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510070832</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510071545</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510072042</datetime>
+    <tide>LW</tide>
+    <val>-74</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510080403</datetime>
+    <tide>HW</tide>
+    <val>159</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510080906</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510081624</datetime>
+    <tide>HW</tide>
+    <val>144</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510082120</datetime>
+    <tide>LW</tide>
+    <val>-76</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510090444</datetime>
+    <tide>HW</tide>
+    <val>159</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510090943</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510091704</datetime>
+    <tide>HW</tide>
+    <val>151</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510092202</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510100525</datetime>
+    <tide>HW</tide>
+    <val>152</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510101024</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510101745</datetime>
+    <tide>HW</tide>
+    <val>153</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510102248</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510110609</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510111110</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510111828</datetime>
+    <tide>HW</tide>
+    <val>150</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510112342</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510120654</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510121204</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510121914</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <moonphase>LK 20:12</moonphase>
+    <datetime summertime="yes" comment="21">202510130220</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510130746</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510131321</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510132009</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510140259</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510140853</datetime>
+    <tide>HW</tide>
+    <val>83</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510141452</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510142132</datetime>
+    <tide>HW</tide>
+    <val>105</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510150356</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510151036</datetime>
+    <tide>HW</tide>
+    <val>70</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510151609</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510152317</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510160657</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510161206</datetime>
+    <tide>HW</tide>
+    <val>73</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510161905</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510170039</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510170832</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510171308</datetime>
+    <tide>HW</tide>
+    <val>86</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510172032</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510180133</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510180958</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510181357</datetime>
+    <tide>HW</tide>
+    <val>100</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510182148</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510190216</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510191049</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510191438</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510192241</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510200253</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510201114</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510201515</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510202301</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <moonphase>NM 14:25</moonphase>
+    <datetime summertime="yes">202510210329</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510211133</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510211548</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510212048</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510220403</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510221204</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510221620</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510222341</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510230436</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510230936</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510231651</datetime>
+    <tide>HW</tide>
+    <val>135</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510240023</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510240508</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510241007</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510241723</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime summertime="yes" comment="21">202510250105</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510250538</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510251043</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime summertime="yes">202510251755</datetime>
+    <tide>HW</tide>
+    <val>134</val>
+  </values>
+  <values>
+    <datetime comment="21">202510260142</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202510260508</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202510261021</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202510261726</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime>202510262237</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202510270539</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime>202510271103</datetime>
+    <tide>LW</tide>
+    <val>-55</val>
+  </values>
+  <values>
+    <datetime>202510271758</datetime>
+    <tide>HW</tide>
+    <val>127</val>
+  </values>
+  <values>
+    <datetime>202510272323</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202510280614</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime>202510281152</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime>202510281836</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <moonphase>EK 17:20</moonphase>
+    <datetime comment="21">202510290149</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime>202510290657</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime>202510291306</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202510291925</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime comment="21">202510300245</datetime>
+    <tide>LW</tide>
+    <val>-26</val>
+  </values>
+  <values>
+    <datetime>202510300759</datetime>
+    <tide>HW</tide>
+    <val>79</val>
+  </values>
+  <values>
+    <datetime>202510301419</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202510302117</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime comment="21">202510310437</datetime>
+    <tide>LW</tide>
+    <val>-25</val>
+  </values>
+  <values>
+    <datetime>202510310943</datetime>
+    <tide>HW</tide>
+    <val>70</val>
+  </values>
+  <values>
+    <datetime>202510311525</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202510312239</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime comment="21">202511010539</datetime>
+    <tide>LW</tide>
+    <val>-26</val>
+  </values>
+  <values>
+    <datetime>202511011103</datetime>
+    <tide>HW</tide>
+    <val>75</val>
+  </values>
+  <values>
+    <datetime>202511011627</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202511012343</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime comment="21">202511020750</datetime>
+    <tide>LW</tide>
+    <val>-28</val>
+  </values>
+  <values>
+    <datetime>202511021207</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime>202511021715</datetime>
+    <tide>LW</tide>
+    <val>-57</val>
+  </values>
+  <values>
+    <datetime>202511030032</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime comment="21">202511030901</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202511031254</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime>202511031757</datetime>
+    <tide>LW</tide>
+    <val>-63</val>
+  </values>
+  <values>
+    <datetime>202511040115</datetime>
+    <tide>HW</tide>
+    <val>144</val>
+  </values>
+  <values>
+    <datetime>202511040632</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202511041336</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime>202511041837</datetime>
+    <tide>LW</tide>
+    <val>-68</val>
+  </values>
+  <values>
+    <moonphase>VM 14:19</moonphase>
+    <datetime>202511050156</datetime>
+    <tide>HW</tide>
+    <val>152</val>
+  </values>
+  <values>
+    <datetime>202511050707</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202511051418</datetime>
+    <tide>HW</tide>
+    <val>139</val>
+  </values>
+  <values>
+    <datetime>202511051918</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202511060239</datetime>
+    <tide>HW</tide>
+    <val>155</val>
+  </values>
+  <values>
+    <datetime>202511060744</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime>202511061459</datetime>
+    <tide>HW</tide>
+    <val>150</val>
+  </values>
+  <values>
+    <datetime>202511062001</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime>202511070322</datetime>
+    <tide>HW</tide>
+    <val>152</val>
+  </values>
+  <values>
+    <datetime>202511070824</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime>202511071542</datetime>
+    <tide>HW</tide>
+    <val>156</val>
+  </values>
+  <values>
+    <datetime>202511072046</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202511080406</datetime>
+    <tide>HW</tide>
+    <val>143</val>
+  </values>
+  <values>
+    <datetime>202511080908</datetime>
+    <tide>LW</tide>
+    <val>-52</val>
+  </values>
+  <values>
+    <datetime>202511081625</datetime>
+    <tide>HW</tide>
+    <val>156</val>
+  </values>
+  <values>
+    <datetime>202511082135</datetime>
+    <tide>LW</tide>
+    <val>-49</val>
+  </values>
+  <values>
+    <datetime>202511090451</datetime>
+    <tide>HW</tide>
+    <val>130</val>
+  </values>
+  <values>
+    <datetime>202511090957</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime>202511091710</datetime>
+    <tide>HW</tide>
+    <val>151</val>
+  </values>
+  <values>
+    <datetime comment="21">202511100121</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202511100539</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202511101054</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202511101759</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <datetime comment="21">202511110227</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202511110633</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime>202511111204</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <datetime>202511111857</datetime>
+    <tide>HW</tide>
+    <val>124</val>
+  </values>
+  <values>
+    <moonphase>LK 06:27</moonphase>
+    <datetime comment="21">202511120325</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202511120745</datetime>
+    <tide>HW</tide>
+    <val>84</val>
+  </values>
+  <values>
+    <datetime>202511121319</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime>202511122024</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime comment="21">202511130426</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202511130911</datetime>
+    <tide>HW</tide>
+    <val>76</val>
+  </values>
+  <values>
+    <datetime>202511131433</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202511132151</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime comment="21">202511140534</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202511141031</datetime>
+    <tide>HW</tide>
+    <val>77</val>
+  </values>
+  <values>
+    <datetime>202511141557</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime>202511142307</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime comment="21">202511150644</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202511151134</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime comment="21">202511151850</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202511160002</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime comment="21">202511160754</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202511161224</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime comment="21">202511161946</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202511170047</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime comment="21">202511170852</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202511171307</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime comment="21">202511172027</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime>202511180127</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202511180934</datetime>
+    <tide>LW</tide>
+    <val>-39</val>
+  </values>
+  <values>
+    <datetime>202511181346</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime comment="21">202511182045</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202511190205</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202511191009</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202511191421</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime comment="21">202511192112</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <moonphase>NM 07:47</moonphase>
+    <datetime>202511200239</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime comment="21">202511201041</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime>202511201453</datetime>
+    <tide>HW</tide>
+    <val>126</val>
+  </values>
+  <values>
+    <datetime comment="21">202511202157</datetime>
+    <tide>LW</tide>
+    <val>-45</val>
+  </values>
+  <values>
+    <datetime>202511210312</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime comment="21">202511211031</datetime>
+    <tide>LW</tide>
+    <val>-43</val>
+  </values>
+  <values>
+    <datetime>202511211526</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime comment="21">202511212245</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202511220344</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime comment="21">202511221121</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime>202511221559</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime comment="21">202511222331</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202511230416</datetime>
+    <tide>HW</tide>
+    <val>121</val>
+  </values>
+  <values>
+    <datetime>202511230931</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202511231633</datetime>
+    <tide>HW</tide>
+    <val>133</val>
+  </values>
+  <values>
+    <datetime comment="21">202511240014</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime>202511240448</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime>202511241008</datetime>
+    <tide>LW</tide>
+    <val>-56</val>
+  </values>
+  <values>
+    <datetime>202511241706</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime comment="21">202511250054</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202511250522</datetime>
+    <tide>HW</tide>
+    <val>113</val>
+  </values>
+  <values>
+    <datetime>202511251048</datetime>
+    <tide>LW</tide>
+    <val>-60</val>
+  </values>
+  <values>
+    <datetime>202511251741</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202511260132</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202511260600</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202511261133</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202511261821</datetime>
+    <tide>HW</tide>
+    <val>123</val>
+  </values>
+  <values>
+    <datetime comment="21">202511270212</datetime>
+    <tide>LW</tide>
+    <val>-28</val>
+  </values>
+  <values>
+    <datetime>202511270645</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime>202511271227</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime>202511271911</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <moonphase>EK 07:58</moonphase>
+    <datetime comment="21">202511280255</datetime>
+    <tide>LW</tide>
+    <val>-26</val>
+  </values>
+  <values>
+    <datetime>202511280743</datetime>
+    <tide>HW</tide>
+    <val>87</val>
+  </values>
+  <values>
+    <datetime>202511281333</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202511282024</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime comment="21">202511290352</datetime>
+    <tide>LW</tide>
+    <val>-24</val>
+  </values>
+  <values>
+    <datetime>202511290902</datetime>
+    <tide>HW</tide>
+    <val>81</val>
+  </values>
+  <values>
+    <datetime>202511291437</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202511292150</datetime>
+    <tide>HW</tide>
+    <val>109</val>
+  </values>
+  <values>
+    <datetime>202511300402</datetime>
+    <tide>LW</tide>
+    <val>-24</val>
+  </values>
+  <values>
+    <datetime>202511301016</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime>202511301536</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202511302255</datetime>
+    <tide>HW</tide>
+    <val>118</val>
+  </values>
+  <values>
+    <datetime>202512010442</datetime>
+    <tide>LW</tide>
+    <val>-26</val>
+  </values>
+  <values>
+    <datetime>202512011122</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime>202512011633</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime>202512012353</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime>202512020524</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202512021218</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime>202512021726</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime>202512030045</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime>202512030606</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202512031307</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <datetime>202512031816</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime>202512040133</datetime>
+    <tide>HW</tide>
+    <val>141</val>
+  </values>
+  <values>
+    <datetime>202512040648</datetime>
+    <tide>LW</tide>
+    <val>-42</val>
+  </values>
+  <values>
+    <datetime>202512041354</datetime>
+    <tide>HW</tide>
+    <val>137</val>
+  </values>
+  <values>
+    <datetime>202512041904</datetime>
+    <tide>LW</tide>
+    <val>-61</val>
+  </values>
+  <values>
+    <moonphase>VM 00:14</moonphase>
+    <datetime>202512050220</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <datetime>202512050730</datetime>
+    <tide>LW</tide>
+    <val>-47</val>
+  </values>
+  <values>
+    <datetime>202512051439</datetime>
+    <tide>HW</tide>
+    <val>146</val>
+  </values>
+  <values>
+    <datetime>202512051950</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime>202512060306</datetime>
+    <tide>HW</tide>
+    <val>136</val>
+  </values>
+  <values>
+    <datetime>202512060813</datetime>
+    <tide>LW</tide>
+    <val>-53</val>
+  </values>
+  <values>
+    <datetime>202512061525</datetime>
+    <tide>HW</tide>
+    <val>151</val>
+  </values>
+  <values>
+    <datetime>202512062038</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202512070353</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime>202512070858</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202512071611</datetime>
+    <tide>HW</tide>
+    <val>152</val>
+  </values>
+  <values>
+    <datetime comment="21">202512080036</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <datetime>202512080440</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime>202512080946</datetime>
+    <tide>LW</tide>
+    <val>-65</val>
+  </values>
+  <values>
+    <datetime>202512081658</datetime>
+    <tide>HW</tide>
+    <val>148</val>
+  </values>
+  <values>
+    <datetime comment="21">202512090129</datetime>
+    <tide>LW</tide>
+    <val>-38</val>
+  </values>
+  <values>
+    <datetime>202512090530</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202512091039</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202512091748</datetime>
+    <tide>HW</tide>
+    <val>140</val>
+  </values>
+  <values>
+    <datetime comment="21">202512100220</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime>202512100623</datetime>
+    <tide>HW</tide>
+    <val>102</val>
+  </values>
+  <values>
+    <datetime>202512101137</datetime>
+    <tide>LW</tide>
+    <val>-71</val>
+  </values>
+  <values>
+    <datetime>202512101845</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <moonphase>LK 21:51</moonphase>
+    <datetime comment="21">202512110312</datetime>
+    <tide>LW</tide>
+    <val>-31</val>
+  </values>
+  <values>
+    <datetime>202512110722</datetime>
+    <tide>HW</tide>
+    <val>94</val>
+  </values>
+  <values>
+    <datetime>202512111243</datetime>
+    <tide>LW</tide>
+    <val>-72</val>
+  </values>
+  <values>
+    <datetime>202512111953</datetime>
+    <tide>HW</tide>
+    <val>119</val>
+  </values>
+  <values>
+    <datetime comment="21">202512120405</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime>202512120824</datetime>
+    <tide>HW</tide>
+    <val>88</val>
+  </values>
+  <values>
+    <datetime>202512121351</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202512122101</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime comment="21">202512130501</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime>202512130931</datetime>
+    <tide>HW</tide>
+    <val>84</val>
+  </values>
+  <values>
+    <datetime>202512131511</datetime>
+    <tide>LW</tide>
+    <val>-66</val>
+  </values>
+  <values>
+    <datetime>202512132214</datetime>
+    <tide>HW</tide>
+    <val>106</val>
+  </values>
+  <values>
+    <datetime comment="21">202512140558</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202512141043</datetime>
+    <tide>HW</tide>
+    <val>85</val>
+  </values>
+  <values>
+    <datetime>202512141624</datetime>
+    <tide>LW</tide>
+    <val>-62</val>
+  </values>
+  <values>
+    <datetime>202512142320</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime comment="21">202512150653</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202512151142</datetime>
+    <tide>HW</tide>
+    <val>91</val>
+  </values>
+  <values>
+    <datetime>202512151726</datetime>
+    <tide>LW</tide>
+    <val>-58</val>
+  </values>
+  <values>
+    <datetime>202512160013</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime comment="21">202512160750</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202512161232</datetime>
+    <tide>HW</tide>
+    <val>98</val>
+  </values>
+  <values>
+    <datetime>202512161825</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202512170100</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime comment="21">202512170852</datetime>
+    <tide>LW</tide>
+    <val>-40</val>
+  </values>
+  <values>
+    <datetime>202512171316</datetime>
+    <tide>HW</tide>
+    <val>104</val>
+  </values>
+  <values>
+    <datetime>202512171931</datetime>
+    <tide>LW</tide>
+    <val>-50</val>
+  </values>
+  <values>
+    <datetime>202512180143</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202512180727</datetime>
+    <tide>LW</tide>
+    <val>-44</val>
+  </values>
+  <values>
+    <datetime>202512181356</datetime>
+    <tide>HW</tide>
+    <val>110</val>
+  </values>
+  <values>
+    <datetime>202512182030</datetime>
+    <tide>LW</tide>
+    <val>-46</val>
+  </values>
+  <values>
+    <datetime>202512190220</datetime>
+    <tide>HW</tide>
+    <val>111</val>
+  </values>
+  <values>
+    <datetime>202512190809</datetime>
+    <tide>LW</tide>
+    <val>-48</val>
+  </values>
+  <values>
+    <datetime>202512191432</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime comment="21">202512192122</datetime>
+    <tide>LW</tide>
+    <val>-41</val>
+  </values>
+  <values>
+    <moonphase>NM 02:43</moonphase>
+    <datetime>202512200254</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime>202512200840</datetime>
+    <tide>LW</tide>
+    <val>-51</val>
+  </values>
+  <values>
+    <datetime>202512201506</datetime>
+    <tide>HW</tide>
+    <val>122</val>
+  </values>
+  <values>
+    <datetime comment="21">202512202214</datetime>
+    <tide>LW</tide>
+    <val>-37</val>
+  </values>
+  <values>
+    <datetime>202512210327</datetime>
+    <tide>HW</tide>
+    <val>114</val>
+  </values>
+  <values>
+    <datetime>202512210851</datetime>
+    <tide>LW</tide>
+    <val>-54</val>
+  </values>
+  <values>
+    <datetime>202512211541</datetime>
+    <tide>HW</tide>
+    <val>128</val>
+  </values>
+  <values>
+    <datetime comment="21">202512212305</datetime>
+    <tide>LW</tide>
+    <val>-35</val>
+  </values>
+  <values>
+    <datetime>202512220400</datetime>
+    <tide>HW</tide>
+    <val>116</val>
+  </values>
+  <values>
+    <datetime>202512220918</datetime>
+    <tide>LW</tide>
+    <val>-59</val>
+  </values>
+  <values>
+    <datetime>202512221617</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime comment="21">202512222352</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime>202512230436</datetime>
+    <tide>HW</tide>
+    <val>115</val>
+  </values>
+  <values>
+    <datetime>202512230951</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+  <values>
+    <datetime>202512231652</datetime>
+    <tide>HW</tide>
+    <val>132</val>
+  </values>
+  <values>
+    <datetime comment="21">202512240037</datetime>
+    <tide>LW</tide>
+    <val>-34</val>
+  </values>
+  <values>
+    <datetime>202512240512</datetime>
+    <tide>HW</tide>
+    <val>112</val>
+  </values>
+  <values>
+    <datetime>202512241028</datetime>
+    <tide>LW</tide>
+    <val>-69</val>
+  </values>
+  <values>
+    <datetime>202512241729</datetime>
+    <tide>HW</tide>
+    <val>131</val>
+  </values>
+  <values>
+    <datetime comment="21">202512250120</datetime>
+    <tide>LW</tide>
+    <val>-33</val>
+  </values>
+  <values>
+    <datetime>202512250551</datetime>
+    <tide>HW</tide>
+    <val>107</val>
+  </values>
+  <values>
+    <datetime>202512251108</datetime>
+    <tide>LW</tide>
+    <val>-73</val>
+  </values>
+  <values>
+    <datetime>202512251809</datetime>
+    <tide>HW</tide>
+    <val>129</val>
+  </values>
+  <values>
+    <datetime comment="21">202512260201</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202512260633</datetime>
+    <tide>HW</tide>
+    <val>103</val>
+  </values>
+  <values>
+    <datetime>202512261153</datetime>
+    <tide>LW</tide>
+    <val>-77</val>
+  </values>
+  <values>
+    <datetime>202512261856</datetime>
+    <tide>HW</tide>
+    <val>125</val>
+  </values>
+  <values>
+    <moonphase>EK 20:09</moonphase>
+    <datetime comment="21">202512270239</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202512270723</datetime>
+    <tide>HW</tide>
+    <val>99</val>
+  </values>
+  <values>
+    <datetime>202512271245</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202512271952</datetime>
+    <tide>HW</tide>
+    <val>120</val>
+  </values>
+  <values>
+    <datetime comment="21">202512280249</datetime>
+    <tide>LW</tide>
+    <val>-29</val>
+  </values>
+  <values>
+    <datetime>202512280823</datetime>
+    <tide>HW</tide>
+    <val>96</val>
+  </values>
+  <values>
+    <datetime>202512281349</datetime>
+    <tide>LW</tide>
+    <val>-78</val>
+  </values>
+  <values>
+    <datetime>202512282103</datetime>
+    <tide>HW</tide>
+    <val>117</val>
+  </values>
+  <values>
+    <datetime>202512290312</datetime>
+    <tide>LW</tide>
+    <val>-30</val>
+  </values>
+  <values>
+    <datetime>202512290932</datetime>
+    <tide>HW</tide>
+    <val>97</val>
+  </values>
+  <values>
+    <datetime>202512291457</datetime>
+    <tide>LW</tide>
+    <val>-75</val>
+  </values>
+  <values>
+    <datetime>202512292211</datetime>
+    <tide>HW</tide>
+    <val>117</val>
+  </values>
+  <values>
+    <datetime>202512300359</datetime>
+    <tide>LW</tide>
+    <val>-32</val>
+  </values>
+  <values>
+    <datetime>202512301040</datetime>
+    <tide>HW</tide>
+    <val>101</val>
+  </values>
+  <values>
+    <datetime>202512301602</datetime>
+    <tide>LW</tide>
+    <val>-70</val>
+  </values>
+  <values>
+    <datetime>202512302317</datetime>
+    <tide>HW</tide>
+    <val>117</val>
+  </values>
+  <values>
+    <datetime>202512310455</datetime>
+    <tide>LW</tide>
+    <val>-36</val>
+  </values>
+  <values>
+    <datetime>202512311146</datetime>
+    <tide>HW</tide>
+    <val>108</val>
+  </values>
+  <values>
+    <datetime>202512311708</datetime>
+    <tide>LW</tide>
+    <val>-64</val>
+  </values>
+</astronomical-tide>
